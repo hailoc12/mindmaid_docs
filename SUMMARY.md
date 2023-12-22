@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Giới thiệu](README.md)
+* [Quickstart: Tạo chatbot AI trong 10 phút](quickstart-tao-chatbot-ai-trong-10-phut.md)
 * [Hướng dẫn cơ bản](huong-dan-co-ban/README.md)
   * [1. HDSD Mindmaid Đăng ký tài khoản](huong-dan-co-ban/1.-hdsd-mindmaid-da-ng-ky-ta-i-khoa-n.md)
   * [2. HDSD Mindmaid Chuẩn bị dữ liệu huấn luyện Trợ lý ảo](huong-dan-co-ban/2.-hdsd-mindmaid-chua-n-bi-du-lie-u-hua-n-luye-n-tro-ly-a-o.md)
