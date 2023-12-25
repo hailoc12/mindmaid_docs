@@ -12,7 +12,7 @@
 * **Tiêu đề:** Đây là tên của Chatbot AI hiển thị cho người dùng. Bạn nên đặt tên chatbot thể hiện mục đích và thương hiệu của bạn. Ví dụ: Trợ lý Mindmaid, Tư vấn viên số Mindmaid. Phiên bản số của Lộc Đặng ...
 * **Tiêu đề phụ:** Đây là tiêu đề phụ hiển thị dưới tên của Chatbot AI. Tiêu đề phụ giúp người dùng hiểu Chatbot AI có thể giúp gì cho họ.
 * **API Key:** là một đoạn mã do OpenAI cung cấp. Xem hướng dẫn lấy API Key tại: [https://workbetter.vn/huong-dan-lay-chatgpt-api-key/](https://workbetter.vn/huong-dan-lay-chatgpt-api-key/)&#x20;
-* **Lệnh điều khiển:** bộ não điều khiển cách Trợ lý ảo phản hồi người dùng. Hướng dẫn chi tiết cách viết Lệnh điều khiển tại:  [prompt-dieu-khien-tro-ly-ao.md](chia-se/prompt-dieu-khien-tro-ly-ao.md "mention")
+* **Lệnh điều khiển:** bộ não điều khiển cách Trợ lý ảo phản hồi người dùng. Hướng dẫn chi tiết cách viết Lệnh điều khiển tại:  [lenh-dieu-khien-tro-ly-ao.md](chia-se/lenh-dieu-khien-tro-ly-ao.md "mention")
 
 Sau khi điền các thông tin trên, chọn **Tạo trợ lý ảo**
 
