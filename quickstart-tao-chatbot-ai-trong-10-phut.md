@@ -34,7 +34,7 @@ Bạn có thể huấn luyện chatbot với 3 kiểu dữ liệu:
 2. Tài liệu: Kiểu dữ liệu tài liệu phù hợp nếu bạn có sẵn các file dữ liệu dạng doc, pdf
 3. Tài liệu mẫu: Kiểu dữ liệu này phù hợp nếu bạn cần chatbot trả lời có độ chính xác cao. Bạn cần chuẩn bị dữ liệu theo mẫu của chúng tôi.&#x20;
 
-Xem hướng dẫn chi tiết chuẩn bị dữ liệu theo từng kiểu tại: [2.-hdsd-mindmaid-chua-n-bi-du-lie-u-and-hua-n-luye-n-tro-ly-a-o.md](huong-dan-co-ban/2.-hdsd-mindmaid-chua-n-bi-du-lie-u-and-hua-n-luye-n-tro-ly-a-o.md "mention")&#x20;
+Xem hướng dẫn chi tiết chuẩn bị dữ liệu theo từng kiểu tại: [2.-hdsd-mindmaid-chua-n-bi-du-lie-u-hua-n-luye-n-tro-ly-a-o.md](huong-dan-co-ban/2.-hdsd-mindmaid-chua-n-bi-du-lie-u-hua-n-luye-n-tro-ly-a-o.md "mention")&#x20;
 
 Sau đó, bạn click vào button **Đào tạo** để huấn luyện dữ liệu cho Chatbot
 
