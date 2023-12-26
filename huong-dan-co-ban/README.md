@@ -6,7 +6,7 @@ Hãy nghĩ đến một mục tiêu mà bạn muốn đạt được, ví dụ n
 
 Với concept Trợ lý ảo này, hãy bắt đầu tạo một Trợ lý ảo của riêng bạn trên nền tảng Mindmaid.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Chọn Tạo trợ lý ảo mới --> Tạo mới</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Chọn Tạo trợ lý ảo mới --> Tạo mới</p></figcaption></figure>
 
 Dưới đây là hướng dẫn 3 bước đơn giản để bạn tạo nhanh một Trợ lý ảo của riêng bạn.
 

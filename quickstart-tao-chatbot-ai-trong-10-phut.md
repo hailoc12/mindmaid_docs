@@ -4,7 +4,7 @@
 
 Ở giao diện **Bảng điều khiển**, Chọn **Tạo trợ lý ảo** -> **Tạo bot Mindmaid**
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Bước 2: Thiết lập thông tin cho Chatbot AI</mark>
 
@@ -16,7 +16,7 @@
 
 Sau khi điền các thông tin trên, chọn **Tạo trợ lý ảo**
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Bước 3: Huấn luyện Chatbot AI</mark>
 
