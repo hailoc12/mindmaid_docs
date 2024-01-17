@@ -15,6 +15,8 @@
     * [8.1. Phân tích hình ảnh](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.1.-phan-tich-hinh-anh.md)
     * [8.2. Luồng kịch bản](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.2.-luong-kich-ban.md)
     * [8.3. Tạo hình ảnh](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.3.-tao-hinh-anh.md)
+    * [8.4. Kết nối dữ liệu internet](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.4.-ket-noi-du-lieu-internet.md)
+    * [8.5 Chế độ cá nhân hoá](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.5-che-do-ca-nhan-hoa.md)
 * [Các lỗi thường gặp](cac-loi-thuong-gap/README.md)
   * [1. Lỗi OpenAI API Key không chính xác](cac-loi-thuong-gap/1.-loi-openai-api-key-khong-chinh-xac.md)
   * [2. Lỗi dữ liệu sai cấu trúc](cac-loi-thuong-gap/2.-loi-du-lieu-sai-cau-truc.md)
