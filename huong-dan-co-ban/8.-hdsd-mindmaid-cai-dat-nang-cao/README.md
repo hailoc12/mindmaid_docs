@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-Ngoài các cài đặt cơ bản trong quá trình tạo bot tại [3.-hdsd-mindmaid-ta-o-tro-ly-a-o-mo-i.md](../3.-hdsd-mindmaid-ta-o-tro-ly-a-o-mo-i.md "mention"), người dùng có thể cài đặt các tính năng nâng cao cho chatbot tại phần Cài đặt Trợ lý ảo.
+Ngoài các cài đặt cơ bản trong quá trình tạo bot tại [3.-hdsd-mindmaid-ta-o-tro-ly-a-o-mindmaid-mo-i.md](../3.-hdsd-mindmaid-ta-o-tro-ly-a-o-mindmaid-mo-i.md "mention"), người dùng có thể cài đặt các tính năng nâng cao cho chatbot tại phần Cài đặt Trợ lý ảo.
 
 Cài đặt nâng cao của Trợ lý ảo bao gồm:
 
