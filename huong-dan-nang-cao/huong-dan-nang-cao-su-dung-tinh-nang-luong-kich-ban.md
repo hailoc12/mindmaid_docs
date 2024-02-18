@@ -23,7 +23,7 @@ Tính năng kịch bản sẽ có 2 thành phần chính:
    2. Phản hồi: Là phản hồi của trạng thái "Kịch bản" mỗi khi kịch bản được kích hoạt thông qua "Trạng thái"
 5. Dùng thử với các "Kịch bản" đã thêm vào.
 
-![](https://aivgroupworking.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZmFkYTg1NDlhOWY4ZjI4ZTFiNzgwODkzYjAxZmJjODJfeXV0SWRFcHVrUjUzMUdRdDVQMVFzVDNvN0FnQzI2QmZfVG9rZW46UjI1OGJDWVFKb2RWVXJ4RUpmUWxQRUg3Z3BmXzE3MDgyNjE5MDc6MTcwODI2NTUwN19WNA)
+<figure><img src="https://aivgroupworking.sg.larksuite.com/space/api/box/stream/download/asynccode/?code=ZmFkYTg1NDlhOWY4ZjI4ZTFiNzgwODkzYjAxZmJjODJfeXV0SWRFcHVrUjUzMUdRdDVQMVFzVDNvN0FnQzI2QmZfVG9rZW46UjI1OGJDWVFKb2RWVXJ4RUpmUWxQRUg3Z3BmXzE3MDgyNjE5MDc6MTcwODI2NTUwN19WNA" alt=""><figcaption></figcaption></figure>
 
 ## D. Lưu ý
 
