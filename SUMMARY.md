@@ -14,7 +14,7 @@
     * [8.2. Luồng kịch bản](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.2.-luong-kich-ban.md)
     * [8.3. Tạo hình ảnh](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.3.-tao-hinh-anh.md)
     * [8.4. Kết nối dữ liệu internet](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.4.-ket-noi-du-lieu-internet.md)
-    * [8.5 Chế độ cá nhân hoá](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/8.5-che-do-ca-nhan-hoa.md)
+    * [9.5 Chế độ cá nhân hoá](huong-dan-co-ban/8.-hdsd-mindmaid-cai-dat-nang-cao/9.5-che-do-ca-nhan-hoa.md)
   * [9. HDSD Mindmaid - Tích hợp Zalo OA](huong-dan-co-ban/9.-hdsd-mindmaid-tich-hop-zalo-oa.md)
   * [3. HDSD Mindmaid - Tạo trợ lý ảo Mindmaid mới](huong-dan-co-ban/3.-hdsd-mindmaid-ta-o-tro-ly-a-o-mindmaid-mo-i.md)
 * [Các lỗi thường gặp](cac-loi-thuong-gap/README.md)
