@@ -35,13 +35,26 @@ Vui lòng xem chi tiết tại sheet **4. Danh sách sản phẩm** của file s
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+2. <mark style="color:blue;">Vào phần Huấn luyện Trợ lý ảo, chọn Tab Tài liệu mẫu > Danh sách sản phẩm</mark>
 
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-4. Danh sách sản phẩm
-5. Tạo hoặc chọn vào bot mindmaid
-6. Chọn vào "Huấn luyện trợ lý ảo"
-7. Chọn vào data cần huấn luyện
-8. Chọn vào tab "Tài liệu mẫu" (Dữ liệu mẫu có thể lấy ở đây)
-9. Tải lên file xlsx hoặc đường dẫn đến file để huấn luyện
-10. Huấn luyện
-11. Dùng thử
+3. <mark style="color:blue;">Tải lên file xlxs hoặc link đến file ở bước 1 để huấn luyện</mark>
+
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+4. <mark style="color:blue;">Mô tả nghiệp vụ dữ liệu</mark>
+
+Phần này mô tả ý nghĩa của các cột.&#x20;
+
+Ví dụ:
+
+product\_name: tên của sản phẩm mà công ty ABC đang kinh doanh
+
+selling\_price: giá bán hiện hành của sản phẩm&#x20;
+
+quantity: số lượng sản phẩm còn lại trong kho&#x20;
+
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+
+5. <mark style="color:blue;">Chọn</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Đào tạo**</mark>
