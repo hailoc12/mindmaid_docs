@@ -1,4 +1,4 @@
-# 3.2. HDSD Mindmaid - Tạo trợ lý ảo GPTs mới
+# Hướng dẫn nâng cao - Tạo trợ lý ảo GPTs mới
 
 **Bước 1: Tại tab Bảng điều khiển, Click button Tạo Trợ lý ảo mới, sau đó chọn Tạo bot GPTs**
 
@@ -79,3 +79,11 @@ Sau khi điền xong, bấm **Thêm mới**
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Như vậy bạn đã tạo Trợ lý ảo thành công!
+
+
+
+{% hint style="info" %}
+Bạn có thể xem video hướng dẫn dưới đây!
+{% endhint %}
+
+{% embed url="https://youtu.be/azBR4894VCQ" %}
