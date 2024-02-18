@@ -27,6 +27,7 @@
   * [Sử dụng tính năng Beta](huong-dan-nang-cao/su-dung-tinh-nang-beta.md)
   * [Hướng dẫn nâng cao - Tạo trợ lý ảo GPTs mới](huong-dan-nang-cao/huong-dan-nang-cao-tao-tro-ly-ao-gpts-moi.md)
   * [Hướng dẫn nâng cao - Sử dụng tính năng tư vấn](huong-dan-nang-cao/huong-dan-nang-cao-su-dung-tinh-nang-tu-van.md)
+  * [Hướng dẫn nâng cao - Sử dụng tính năng Luồng kịch bản](huong-dan-nang-cao/huong-dan-nang-cao-su-dung-tinh-nang-luong-kich-ban.md)
 * [Chia sẻ](chia-se/README.md)
   * [Lệnh điều khiển Trợ lý ảo](chia-se/lenh-dieu-khien-tro-ly-ao.md)
 * [Hỗ trợ](ho-tro/README.md)
