@@ -26,6 +26,7 @@
     * [Tích hợp Mindmaid với VinaLlama-7b](huong-dan-nang-cao/su-dung-mindmaid-voi-llm-nguon-mo/tich-hop-mindmaid-voi-vinallama-7b.md)
   * [Sử dụng tính năng Beta](huong-dan-nang-cao/su-dung-tinh-nang-beta.md)
   * [Hướng dẫn nâng cao - Tạo trợ lý ảo GPTs mới](huong-dan-nang-cao/huong-dan-nang-cao-tao-tro-ly-ao-gpts-moi.md)
+  * [Hướng dẫn nâng cao - Sử dụng tính năng tư vấn](huong-dan-nang-cao/huong-dan-nang-cao-su-dung-tinh-nang-tu-van.md)
 * [Chia sẻ](chia-se/README.md)
   * [Lệnh điều khiển Trợ lý ảo](chia-se/lenh-dieu-khien-tro-ly-ao.md)
 * [Hỗ trợ](ho-tro/README.md)
