@@ -14,9 +14,7 @@ Nếu bạn đã có Lark App, vui lòng bỏ qua bước này!
 | <ul><li>Sau khi Admin duyệt, bạn đã hoàn thành việc tạo Lark App</li></ul>                                                                                                                                                                                                                                                                  | <p><br></p>                                                                                                                                                                                                                                                 |
 | <ul><li>Lấy App ID và Secret ID</li></ul>                                                                                                                                                                                                                                                                                                   | <img src="../.gitbook/assets/image (68).png" alt="" data-size="original">                                                                                                                                                                                   |
 
-
-
-{% file src="../.gitbook/assets/Screen Recording 2024-01-04 at 03.34.00.mov" %}
+{% embed url="https://youtu.be/zXkUVf51EME" %}
 
 ## B. Tạo Base từ template
 
