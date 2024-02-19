@@ -22,7 +22,34 @@ Nếu bạn đã có Lark App, vui lòng bỏ qua bước này!
 
 * Tạo Base mới từ template sau: [https://aivgroupworking.sg.larksuite.com/base/HFqdbTYqRaEgrMsNABJlcmklgvd?table=tblXDQwkdbEoBYu7\&view=vewPA81xUf](https://aivgroupworking.sg.larksuite.com/base/HFqdbTYqRaEgrMsNABJlcmklgvd?table=tblXDQwkdbEoBYu7\&view=vewPA81xUf)&#x20;
 
+<figure><img src="../.gitbook/assets/img_v3_0287_2a8e061c-f8da-4dfe-9aae-9dbe538173hu.png" alt=""><figcaption></figcaption></figure>
+
+* Phân quyền **People in the organization can edit**
+
+<figure><img src="../.gitbook/assets/img_v3_0287_74b9812d-0283-4972-b087-0c5de5f905hu (1).png" alt=""><figcaption></figcaption></figure>
+
+* Lấy ID của bảng Lịch sử chat & Function Calling
+
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 
-* Phân quyền People in organization can edit
 
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+## C. Gửi Mindmaid thông tin sau
+
+* Lark App ID
+* Lark App Secret
+* Base ID
+* Lịch sử chat Table ID
+* Function Calling Table ID&#x20;
+
+
+
+{% hint style="info" %}
+**Liên hệ với chúng tôi**
+
+* 0961160917 (Zalo)
+* Facebook: [https://www.facebook.com/hoaingocduongthu](https://www.facebook.com/hoaingocduongthu)
+* Lark: [Ngọc ](https://www.larksuite.com/invitation/page/add\_contact/?token=f61t41d4-bcb8-41b3-b29e-398857h221l8\&unique\_id=mfjNlUNTxVNzsH8b6BmGFw==)
+{% endhint %}
