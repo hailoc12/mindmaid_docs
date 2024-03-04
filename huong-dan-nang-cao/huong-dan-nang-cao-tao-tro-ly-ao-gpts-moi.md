@@ -2,7 +2,7 @@
 
 **Bước 1: Tại tab Bảng điều khiển, Click button Tạo Trợ lý ảo mới, sau đó chọn Tạo bot GPTs**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 2: Chọn gói Trợ lý ảo**
 
@@ -56,7 +56,7 @@ Chi tiết so sánh các gói Trợ lý ảo Mindmaid: https://mindmaid.ai/price
 
 **Actions**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Action là một tính năng giúp gpts có thể dựa vào Function calling để từ đó tương tác với dữ liệu bên ngoài qua API
 * Để Action hoạt động bắt buộc bạn phải có Function calling trước đó
@@ -76,7 +76,7 @@ Sau khi điền xong, bấm **Thêm mới**
 
 <figure><img src="https://lh7-us.googleusercontent.com/bKDihKfJCGfSX6626ldBk2tUivE4xGsoMEy-nkp5nuWq5Jk7ol49cqfN54eYkWi3KBJhnt41T1NGNP315oBBUJseBdULfwNkWjl4oXBCcsFwFaguFDATSk690jAtUwevlwGa-qEDpyt0TQI6ZoITEr4" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Như vậy bạn đã tạo Trợ lý ảo thành công!
 
