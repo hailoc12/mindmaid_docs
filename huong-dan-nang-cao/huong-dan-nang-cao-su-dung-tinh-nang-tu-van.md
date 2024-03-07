@@ -33,7 +33,7 @@ Kịch bản 2:
 
 Vui lòng xem chi tiết tại sheet **4. Danh sách sản phẩm** của file sau: [https://docs.google.com/spreadsheets/d/1336NI827chjFkU1-C-p7luALIYwdonOAvEP3HXT76vQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1336NI827chjFkU1-C-p7luALIYwdonOAvEP3HXT76vQ/edit?usp=sharing)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="color:blue;">Vào phần Huấn luyện Trợ lý ảo, chọn Tab Tài liệu mẫu > Danh sách sản phẩm</mark>
 

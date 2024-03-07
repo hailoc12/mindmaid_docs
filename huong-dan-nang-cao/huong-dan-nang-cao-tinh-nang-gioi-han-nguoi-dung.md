@@ -25,7 +25,7 @@ Tính năng giới hạn người dùng cho phép:&#x20;
       * Bước 1: Nhập email muốn giới hạn, Nhập câu hỏi giới hạn, Chọn ngày hết hạn
       * Bước 2: Chọn vào dấu “√” để thêm email giới hạn
 
-      <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
   *   **Cách 2: Thêm bằng file**
 
       * Bước 1: Chọn vào icon file
@@ -33,7 +33,7 @@ Tính năng giới hạn người dùng cho phép:&#x20;
 
 
 
-      <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 File tải lên có định dạng như sau: [https://docs.google.com/spreadsheets/d/1c0KX9-PLXYoLBgKfbZkkeW\_R1EPPs4hnlP1\_ux-k8HM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1c0KX9-PLXYoLBgKfbZkkeW\_R1EPPs4hnlP1\_ux-k8HM/edit?usp=sharing)&#x20;
