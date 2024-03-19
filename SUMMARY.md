@@ -29,6 +29,7 @@
   * [Hướng dẫn nâng cao - Sử dụng tính năng Luồng kịch bản](huong-dan-nang-cao/huong-dan-nang-cao-su-dung-tinh-nang-luong-kich-ban.md)
   * [Hướng dẫn nâng cao - Đổ dữ liệu chatbot Mindmaid vào Lark Base](huong-dan-nang-cao/huong-dan-nang-cao-do-du-lieu-chatbot-mindmaid-vao-lark-base.md)
   * [Hướng dẫn nâng cao - Tính năng giới hạn người dùng](huong-dan-nang-cao/huong-dan-nang-cao-tinh-nang-gioi-han-nguoi-dung.md)
+  * [Hướng dẫn tính năng livechat](huong-dan-nang-cao/huong-dan-tinh-nang-livechat.md)
 * [Chia sẻ](chia-se/README.md)
   * [Lệnh điều khiển Trợ lý ảo](chia-se/lenh-dieu-khien-tro-ly-ao.md)
 * [Hỗ trợ](ho-tro/README.md)

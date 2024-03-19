@@ -33,7 +33,7 @@ Tính năng giới hạn người dùng cho phép:&#x20;
 
 
 
-      <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 File tải lên có định dạng như sau: [https://docs.google.com/spreadsheets/d/1c0KX9-PLXYoLBgKfbZkkeW\_R1EPPs4hnlP1\_ux-k8HM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1c0KX9-PLXYoLBgKfbZkkeW\_R1EPPs4hnlP1\_ux-k8HM/edit?usp=sharing)&#x20;
