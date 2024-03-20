@@ -1,6 +1,6 @@
 # Hướng dẫn tính năng function calling
 
-1\. Mô tả tính năng
+## 1. Mô tả tính năng
 
 Tính năng function calling cho phép người dùng có thể kết nối với dữ liệu từ bên ngoài hoặc lấy thông tin người dùng sử dụng chatbot
 
