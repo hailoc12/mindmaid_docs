@@ -12,7 +12,7 @@ Tính năng livechat cho phép quản trị bot có thể trực tiếp chat v�
 
 ### 3. Chọn vào menu "Live chat" và sử dụng
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 > Lưu ý:
 >

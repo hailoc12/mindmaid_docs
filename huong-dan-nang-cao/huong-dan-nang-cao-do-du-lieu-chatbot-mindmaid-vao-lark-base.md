@@ -6,10 +6,10 @@
 Nếu bạn đã có Lark App, vui lòng bỏ qua bước này!
 {% endhint %}
 
-| <ul><li>Truy cập Lark Developer tại: https://open.larksuite.com/</li><li>Chọn <strong>Create App</strong></li></ul>                                                                                                                                                                                                                         | <img src="../.gitbook/assets/image (1).png" alt="" data-size="original">                                            |
+| <ul><li>Truy cập Lark Developer tại: https://open.larksuite.com/</li><li>Chọn <strong>Create App</strong></li></ul>                                                                                                                                                                                                                         | <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>Chọn <strong>Create Custom App</strong></li></ul><p><br></p>                                                                                                                                                                                                                                                                        | <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">                                        |
-| <ul><li>Điền thông tin của App và chọn <strong>Create</strong></li></ul><p><br></p>                                                                                                                                                                                                                                                         | <img src="../.gitbook/assets/image (2).png" alt="" data-size="original">                                            |
+| <ul><li>Chọn <strong>Create Custom App</strong></li></ul><p><br></p>                                                                                                                                                                                                                                                                        | <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">                                    |
+| <ul><li>Điền thông tin của App và chọn <strong>Create</strong></li></ul><p><br></p>                                                                                                                                                                                                                                                         | <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">                                        |
 | <ul><li>Trong trang <strong>Permissions &#x26; Scopes, add tất cả các quyền</strong></li><li>Chọn <strong>Add in Bulk</strong></li><li>Chọn <strong>Confirm and Go to Create Version</strong></li><li>Điền thông tin version</li><li>Chọn Submit để gửi Admin duyệt</li></ul><p><br><em><strong>Vui lòng xem video ở dưới</strong></em></p> | <img src="../.gitbook/assets/img_v3_0287_ee98ad89-b64b-4e56-b3ab-dcf7387766hu (1).jpg" alt="" data-size="original"> |
 | <ul><li>Sau khi Admin duyệt, bạn đã hoàn thành việc tạo Lark App</li></ul>                                                                                                                                                                                                                                                                  | <p><br></p>                                                                                                         |
 | <ul><li>Lấy App ID và Secret ID</li></ul>                                                                                                                                                                                                                                                                                                   | <img src="../.gitbook/assets/image (68).png" alt="" data-size="original">                                           |
@@ -38,7 +38,7 @@ Nếu bạn đã có Lark App, vui lòng bỏ qua bước này!
 
 * Bước 1: Vào phần Cài đặt
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Bước 2: Nhập các thông tin&#x20;
 
@@ -48,7 +48,7 @@ Nếu bạn đã có Lark App, vui lòng bỏ qua bước này!
     * Lịch sử chat Table ID
     * Function Calling Table ID&#x20;
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Liên hệ với chúng tôi**

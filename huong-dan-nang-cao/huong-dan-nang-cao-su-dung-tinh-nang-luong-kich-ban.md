@@ -11,7 +11,7 @@ Tính năng kịch bản sẽ có 2 thành phần chính:
 * Flow: Là định nghĩa kịch bản chính cho chatbot
 * State Flow: Là định nghĩa trạng thái hoạt động cho kịch bản
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## C. Cách cài đặt
 

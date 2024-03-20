@@ -6,7 +6,7 @@ Mindmaid là nền tảng tạo các Trợ lý ảo AI cá nhân hóa. Hướng 
 
 Tất cả các Trợ lý ảo bạn thấy trên trang chủ là các Trợ lý ảo được tạo bởi nền tảng Mindmaid. Nếu bạn sẵn sàng tạo Trợ lý ảo AI cho riêng mình, hướng dẫn này dành cho bạn!
 
-<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Tất cả các chatbot này được tạo bởi những người như bạn!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Tất cả các chatbot này được tạo bởi những người như bạn!</p></figcaption></figure>
 
 ## Giới thiệu
 
