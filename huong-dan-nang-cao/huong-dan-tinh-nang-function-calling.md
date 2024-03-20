@@ -78,5 +78,4 @@ Sau khi điền xong, bấm **Xác nhận** để lưu lại cài đặt của b
 
 > Lưu ý:
 >
-> * Live chat chỉ áp dụng với các người dùng đến từ nền tảng thứ 3 như Facebook, ...
-> * Người quản trị bot có thể chủ động tắt bật trả lời bằng AI qua nút "Trạng thái" ở góc trên bên phải của khung live chat.
+> * Nếu action không hoạt động thì mặc định dữ liệu đầu ra của action sẽ là template trả về nếu có cài đặt hoặc nếu không có template trả lời thì sẽ mặc định là dữ liệu trống.
