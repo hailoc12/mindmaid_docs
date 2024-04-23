@@ -31,6 +31,8 @@
   * [Hướng dẫn nâng cao - Tính năng giới hạn người dùng](huong-dan-nang-cao/huong-dan-nang-cao-tinh-nang-gioi-han-nguoi-dung.md)
   * [Hướng dẫn tính năng livechat](huong-dan-nang-cao/huong-dan-tinh-nang-livechat.md)
   * [Hướng dẫn tính năng function calling](huong-dan-nang-cao/huong-dan-tinh-nang-function-calling.md)
+  * [Hướng dẫn tính năng kết nối với nền tảng Coze](huong-dan-nang-cao/huong-dan-tinh-nang-ket-noi-voi-nen-tang-coze.md)
+  * [Page](huong-dan-nang-cao/page.md)
 * [Chia sẻ](chia-se/README.md)
   * [Lệnh điều khiển Trợ lý ảo](chia-se/lenh-dieu-khien-tro-ly-ao.md)
 * [Hỗ trợ](ho-tro/README.md)
